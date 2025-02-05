@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
+
 **JuanessC19/JuanessC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Soy estudiante de ingeniera en sistemas primer semestre
+- ⚽ Me gusta jugar futbol
+- 🤝 Conocer nuevas personas
+- 🪩 Me gusta salir
+- 🎶 Escucho de todo un poquito, pero mas que todo de cantina
+- 🎱 Me gusta jugar billar 
+- 🎶 Cantantes favoritos: kris r, yeison jimenez
+
+
